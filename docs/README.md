@@ -6,4 +6,4 @@ Every BellLabs repository carries the same documentation contract, enforced by t
 rules once the CLI exists (slice S1), so that a repository never needs the program to read them.
 
 Pinning: `.sdlc/lock.json` (CLI version, commit, digests) and `skills-lock.json` (skills).
-Pulling: `node .sdlc/cli.mjs update --to <version>`; `npx skills add Overton77/belllabs-agentic-sdlc`.
+Pulling: `node .sdlc/cli.mjs update --to <version>`; `npx skills add jbell-rusty-vantage/agentic-sdlc`.
